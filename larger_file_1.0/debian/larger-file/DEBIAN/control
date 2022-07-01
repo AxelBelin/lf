@@ -1,0 +1,9 @@
+Package: larger-file
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Axel BELIN <axel.belin@edu.univ-eiffel.fr>
+Installed-Size: 9
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: ls command remake more user frindly (using ftw()).
