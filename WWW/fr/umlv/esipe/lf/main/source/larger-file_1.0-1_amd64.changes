@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Fri, 01 Jul 2022 01:12:09 +0200
+Source: larger-file
+Binary: larger-file
+Architecture: source amd64
+Version: 1.0-1
+Distribution: stable
+Urgency: low
+Maintainer: Axel BELIN <axel.belin@edu.univ-eiffel.fr>
+Changed-By: Axel BELIN <axel.belin@edu.univ-eiffel.fr>
+Description:
+ larger-file - ls command remake more user frindly (using ftw()).
+Closes: 1
+Changes:
+ larger-file (1.0-1) stable; urgency=low
+ .
+   * Initial release (Closes: 1)
+Checksums-Sha1:
+ 7b274c86d67c495041f0fd8f156b1387abe8474d 964 larger-file_1.0-1.dsc
+ 59a62e5f3626abdd755b85b1e18fda0906776e4a 16587 larger-file_1.0.orig.tar.gz
+ 8ecccb1d5a4d6df89bae38adf5bda2fd128d5a10 1712 larger-file_1.0-1.debian.tar.xz
+ 9032ee8ef99a85eb5fc4030345d33f10fb918038 4564 larger-file_1.0-1_amd64.buildinfo
+ 944b380a5e148090d96b0c9f213baa82fe988c21 1776 larger-file_1.0-1_amd64.deb
+Checksums-Sha256:
+ ead23392be0b3b5af9d799fcf0f52472bb5ab9e3ebfc03e1cdbdb931a6373977 964 larger-file_1.0-1.dsc
+ dae324b9acd9cd12b063a42fc0b709d29300dac635fddd3cf90bc93e3804b70b 16587 larger-file_1.0.orig.tar.gz
+ b6b824d4b6649302e9cc2dd8d1308e25a57ace3e91923bb3f4ee388c31dffb6b 1712 larger-file_1.0-1.debian.tar.xz
+ 0f40dca8b1d0a03da5a766557025d0d58a4c3a7d24cbd640dc6b015684d103b8 4564 larger-file_1.0-1_amd64.buildinfo
+ ba2f4c470dca7cbebd0a65b5368d2d18808712335baf11433eadde4b543361e2 1776 larger-file_1.0-1_amd64.deb
+Files:
+ 97d21ba9ddd863d451c9c8126f2f6738 964 unknown optional larger-file_1.0-1.dsc
+ 2ece9c2eb2081bf54e5edf6bfe0246aa 16587 unknown optional larger-file_1.0.orig.tar.gz
+ 1d8a7cae2eebe787a07ecbeeb17caf3a 1712 unknown optional larger-file_1.0-1.debian.tar.xz
+ df2055c5ee86eb17a28feffd3e45338a 4564 unknown optional larger-file_1.0-1_amd64.buildinfo
+ c2471b26a2309131328383ddc3b159d5 1776 unknown optional larger-file_1.0-1_amd64.deb
